@@ -1,0 +1,8 @@
+
+
+
+.u-animation-once {
+    animation: bounceIn 1s;
+    animation-direction: alternate;
+    animation-iteration-count: 1;
+}
