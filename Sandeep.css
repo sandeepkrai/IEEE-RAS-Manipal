@@ -1,4 +1,12 @@
+.my-btn{
+    background-color: black;
+    color: white;
+    padding: 15px;
+}
 
+.my-btn:hover{
+    color: rgb(190, 168, 168);
+}
 
 
 .u-animation-once {
